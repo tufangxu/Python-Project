@@ -95,13 +95,47 @@ Please View Instruction - [Here](https://youtu.be/S1rcbpwc8S0)
 
 #### Results Present
 
-- College Recommendation
+> College Recommendation
 
-- College Acceptance Rate Trend (2004 - 2013)
+```
+a) International 
+b) Local 
+c) Tranfer: 
+? (Please Type a, b, c):
+b
+please input your sat score:2000
+please input your maximum tuition you can accept:8000
+```
+```
+1. Brigham Young University-Idaho
+score: 0.780645154651
+city:Rexburg	state:ID	rank:314	tuition:3850.0	sat:1036.0	AC:0.996263079223	debt:5750.0	Mal:0.4253
 
-> Recommend College OR Check Accept Rate? Enter R or A or Exit: A
+2. Southern University at New Orleans
+score: 0.660160232884
+city:New Orleans	state:LA	rank:1428	tuition:4911.0	sat:808.0	AC:0.488803582853	debt:14250.0	Mal:0.2503
 
-> Enter a University Name(Full Name):Cornell University
+3. Alcorn State University
+score: 0.654914321391
+city:Alcorn State	state:MS	rank:1037	tuition:6108.0	sat:851.0	AC:0.829139072848	debt:16000.0	Mal:0.3541
+```
+
+
+> College Acceptance Rate Trend (2004 - 2013)
+
+```
+Recommend College OR Check Accept Rate? Enter R or A or Exit: A
+Enter a University Name(Full Name):Cornell University
+```
+- Cornell University
 
 ![](picture/cornell.png)
+
+```
+Recommend College OR Check Accept Rate? Enter R or A or Exit: A
+Enter a University Name(Full Name): New York University
+```
+- New York University
+
+![](picture/nyu.png)
 
