@@ -2,7 +2,7 @@
 ## **Introduction**
 #### College Score Card Ranking is a College-Recommendation Program by Python
 
-![](college rank.jpg) 
+![](college rank.jpg)
 
 ## Our Mission
 
@@ -10,18 +10,20 @@
 ####    Students with different backgrounds have different needs and concerns about college requirements. We categorize three major groups of prospective students: International, local and transfer students, and we will evaluate different factors based on each group?s needs.
 
 ## Summary Of Research Questions:
-> How should we come out with different solutions that can help different types of students (Ex: internaxtional students, local students, transfer students) to find the colleges that suit them most by applying the dataset?
->
+- How should we come out with different solutions that can help different types of students (Ex: internaxtional students, local students, transfer students) to find the colleges that suit them most by applying the dataset?
+- How can the different factors (like academic rank, tuition fee) be used together within different influence score to come out a total rank of a school?
+- We can also predict a college’s future acceptance rate to predict collecting the previous year’s data (from 1996 - 2014) and find functions to describe the relationships between those data. Is there any way to analyze the trend of acceptance rate of a college so that the students have a better idea of which colleges to go?
 
 
 ## Dataset
 > We collected our dataset from **_data.gov_**
-[Download Here](https://catalog.data.gov/dataset/college-scorecard/resource/b8f3d10b-0974-40db-b5fa-3c87ecae516b)
+
+[Dataset Download Here](https://catalog.data.gov/dataset/college-scorecard/resource/b8f3d10b-0974-40db-b5fa-3c87ecae516b)
  
 ## Methodology
 
 #### **User Inputs**
-> We designed our input panel into two directions: **Recommendation Panel** & **Acceptance Rate Panel** 
+> We designed our input panel into two parts: **Recommendation Panel** & **Acceptance Rate Panel** 
 
 
 #### 1. College Recommendation Panel
@@ -45,21 +47,20 @@ the Maximum tuition per quarter they expect to pay
 
 #### Methodology:
 
- a.	International Students:
+a.	International Students:
 -   	Tuition: 15% 
 -   	SAT: 40%
 -   	Ranking: 20%
 -   	Acceptance Rate: 35%
 
- b.	Local Students:
+b.	Local Students:
 -   	Tuition: 20%
 -   	Debt: 10%
 -   	Gender Ratio: 10%
 -   	SAT: 25 %
 -   	Acceptance Rate: 35%
 
-
- c.	Transfer Students:
+c.	Transfer Students:
 -   	Acceptance Rate: 40%
 -   	Tuition: 30 %
 -   	SAT: 10%
