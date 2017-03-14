@@ -2,13 +2,13 @@
 ## **Introduction**
 #### College Score Card Ranking is a College-Recommendation Program by Python
 
-![](college rank.jpg)
+![](picture/college rank.jpg)
 
 ## Our Mission 
 
 ####  Nowadays, getting into an ideal college is an important step for students to receive better education as well as their future career development. However, choosing an appropriate college can be challenging. Our research purpose is to assist students to find their ideal colleges by providing 5 top college information with basic information
 ####  Students with different backgrounds have different needs and concerns about college requirements. We categorize three major groups of prospective students: International, local and transfer students, and we will evaluate different factors based on each group?s needs.
-![](1.gif)
+![](picture/student.gif)
 
 ## Summary Of Research Questions:
 - How should we come out with different solutions that can help different types of students (Ex: internaxtional students, local students, transfer students) to find the colleges that suit them most by applying the dataset?
@@ -79,11 +79,11 @@ c.	Transfer Students:
 #### Project Challenges
  Let's take a glance of our original data:
 
-![](dataset.PNG)
+![](picture/dataset.PNG)
 
 Since the data are extracted directly from the system, we can see the column names are unorganized, and there are a large amount of  **_NULL_**s, which made us hard to filter and re-organize the dataset
 
 
 #### Panel Instruction 
 
-[Please View Instruction Here](https://youtu.be/S1rcbpwc8S0)
+Please View Instruction - [Here](https://youtu.be/S1rcbpwc8S0)
