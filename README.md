@@ -66,6 +66,7 @@ c.	Transfer Students:
 -   	SAT: 10%
 -   	Ranking: 20%
 
+
 - Sum up the influence score for each college by adding up each factor?s weight
 - Select the top 5 influence scores and present the users with the corresponding college information: name, location, tuition, ranking, SAT average, acceptance rate, gender ratio.
 - Provide the top college suggestion?s acceptance rate trending from 1996 - 2014, and see if the trend is going up or down.
