@@ -99,4 +99,9 @@ Please View Instruction - [Here](https://youtu.be/S1rcbpwc8S0)
 
 - College Acceptance Rate Trend (2004 - 2013)
 
+> Recommend College OR Check Accept Rate? Enter R or A or Exit: A
+
+> Enter a University Name(Full Name):Cornell University
+
+![](cornell.PNG)
 
