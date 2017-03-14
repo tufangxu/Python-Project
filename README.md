@@ -4,10 +4,11 @@
 
 ![](college rank.jpg)
 
-## Our Mission
+## Our Mission 
 
-####    Nowadays, getting into an ideal college is an important step for students to receive better education as well as their future career development. However, choosing an appropriate college can be challenging. Our research purpose is to assist students to find their ideal colleges by providing 5 top college information with basic information
-####    Students with different backgrounds have different needs and concerns about college requirements. We categorize three major groups of prospective students: International, local and transfer students, and we will evaluate different factors based on each group?s needs.
+####  Nowadays, getting into an ideal college is an important step for students to receive better education as well as their future career development. However, choosing an appropriate college can be challenging. Our research purpose is to assist students to find their ideal colleges by providing 5 top college information with basic information
+####  Students with different backgrounds have different needs and concerns about college requirements. We categorize three major groups of prospective students: International, local and transfer students, and we will evaluate different factors based on each group?s needs.
+![](1.gif)
 
 ## Summary Of Research Questions:
 - How should we come out with different solutions that can help different types of students (Ex: internaxtional students, local students, transfer students) to find the colleges that suit them most by applying the dataset?
@@ -42,7 +43,7 @@ the Maximum tuition per quarter they expect to pay
 
 #### influence score for each filtered college information will be calculated based on different factors of interest, and the calculation is different for International, local and transfer students.
 
-##### Groups of interest: (*influence score for each college is a single value. It starts from 0; it evaluates and sums up the weight of each factor)
+##### Groups of interest: (*Note: influence score for each college is a single value. It starts from 0; it evaluates and sums up the weight of each factor)
 
 
 #### Methodology:
@@ -64,7 +65,7 @@ c.	Transfer Students:
 -   	Acceptance Rate: 40%
 -   	Tuition: 30 %
 -   	SAT: 10%
--   	Ranking: 20%
+-     Ranking: 20%
 
 
 - Sum up the influence score for each college by adding up each factor?s weight
