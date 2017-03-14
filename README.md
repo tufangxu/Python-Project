@@ -58,14 +58,14 @@ b.	Local Students:
 -   	Tuition: 20%
 -   	Debt: 10%
 -   	Gender Ratio: 10%
--   	SAT: 25 %
+-   	SAT: 25%
 -   	Acceptance Rate: 35%
 
 c.	Transfer Students:
 -   	Acceptance Rate: 40%
--   	Tuition: 30 %
+-   	Tuition: 30%
 -   	SAT: 10%
--     Ranking: 20%
+-   	Ranking: 20%
 
 
 - Sum up the influence score for each college by adding up each factor?s weight
@@ -74,8 +74,11 @@ c.	Transfer Students:
 
 
 
+
+
 #### Project Challenges
 > Let's take a glance of our original data:
+![](dataset.PNG)
 
 (Since the data are extracted directly from the system, we can see the column names are unorganized, and there are a large amount of  **_NULL_**s, which made us hard to filter and re-organize the dataset)
 
