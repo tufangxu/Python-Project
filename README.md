@@ -77,4 +77,8 @@ c.	Transfer Students:
 #### Project Challenges
 > Let's take a glance of our original data:
 
+(Since the data are extracted directly from the system, we can see the column names are unorganized, and there are a large amount of  **_NULL_**s, which made us hard to filter and re-organize the dataset)
+
+
+
 
