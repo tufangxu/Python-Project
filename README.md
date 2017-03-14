@@ -2,7 +2,7 @@
 ## **Introduction**
 #### College Score Card Ranking is a College-Recommendation Program by Python
 
-![](college rank.jpg)
+![](college rank.jpg) 
 
 ## Our Mission
 
