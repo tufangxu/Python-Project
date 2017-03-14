@@ -103,5 +103,5 @@ Please View Instruction - [Here](https://youtu.be/S1rcbpwc8S0)
 
 > Enter a University Name(Full Name):Cornell University
 
-![](cornell.PNG)
+![](picture/cornell.png)
 
