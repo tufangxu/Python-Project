@@ -32,15 +32,15 @@ output:
 
 
 #### 1. College Recommendation Panel
+```
+a. Describe your student status: International/Local/Transfer?
 
-> a. Describe your student status: International/Local/Transfer?
-- This is a text response, the users will enter their status by
-typing a ?string? response 
 b. Enter your SAT Score:
-- This is a Numerical response, the users are required to type in SAT score they?ve taken
+
 c. Enter your expected Maximum Tuition(per quarter)?
-- This is a Numerical response, the users are required to type in
-the Maximum tuition per quarter they expect to pay
+
+```
+
 
 #### **Influence Score**
 
@@ -130,7 +130,7 @@ Enter a University Name(Full Name):Cornell University
 ```
 - Cornell University
 
-![](picture/cornell.png)
+![](picture/cornellu.png)
 
 ```
 Recommend College OR Check Accept Rate? Enter R or A or Exit: A
