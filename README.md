@@ -7,7 +7,7 @@ output:
 ## **Introduction**
 #### College Score Card Ranking is a College-Recommendation Program by Python
 
-![](picture/college rank.jpg)
+![](picture/rank.jpg)
 
 ## Our Mission 
 
@@ -43,7 +43,8 @@ c. Enter your expected Maximum Tuition(per quarter)?
 the Maximum tuition per quarter they expect to pay
 
 #### **Influence Score**
-> Influence score is the **key** for our recommendation-program. 
+
+#### Influence score is the **key** for our recommendation-program. 
 
 #### influence score for each filtered college information will be calculated based on different factors of interest, and the calculation is different for International, local and transfer students.
 
